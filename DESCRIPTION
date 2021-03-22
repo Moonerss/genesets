@@ -1,0 +1,23 @@
+Package: genesets
+Type: Package
+Title: The useful genesets for bioinformatics analysis
+Version: 0.1.0
+Authors@R: 
+    person(given = "Erjie",
+           family = "Zhao",
+           email = "2055469819@qq.com",
+           role = c("aut", "cre"))
+Maintainer: Erjie Zhao <2055469819@qq.com>
+Description: The package contained the curated gene list of functional genes.
+License: CC0
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
+Imports: 
+    tibble
+Depends: 
+    R (>= 2.10)
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
