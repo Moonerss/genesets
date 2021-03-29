@@ -35,6 +35,5 @@ names(Hallmark) <- c("adipogenesis", "allograft_rejection", "androgen_response",
   "oxidative_phosphorylation", "p53_pathway", "pancreas_beta_cells", "peroxisome", "PI3K_AKT_mTOR_signaling",
   "protein_secretion", "reactive_oxygen_species_pathway", "spermatogenesis", "TGF_beta_signaling",
   "TNFA_signaling_via_nfkb", "unfolded_protein_response", "UV_response_dn", "UV_response_up",
-  "WNT_beta_catenin_signaling", "xenobiotic_metabolism"
-)
+  "WNT_beta_catenin_signaling", "xenobiotic_metabolism")
 
