@@ -20,3 +20,15 @@
 #'
 #' @usage data(Immport)
 "Immport"
+
+
+#' Cancer hallmark gene sets
+#'
+#' @description Cancer hallmark gene lists getted using `msigdbr` package from MsigDB.
+#'
+#' @format A list with 50 tibble. And each tibble with columns ensembl_gene_id and symbol.
+#'
+#' @source \url{http://www.gsea-msigdb.org/gsea/msigdb/index.jsp}
+#'
+#' @usage data(Hallmark)
+"Hallmark"
